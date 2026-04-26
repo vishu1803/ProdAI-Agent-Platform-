@@ -6,9 +6,7 @@
 ProdAI Agent Platform is a production-ready, highly sophisticated AI Agent framework built from the ground up using **Next.js** and the **Vercel AI SDK**. 
 
 Inspired by advanced CLI agents like Claude Code, this project transforms the concept of an autonomous reasoning loop into a robust web application. It features a complete multi-agent Swarm Architecture, enterprise-grade telemetry, Model Context Protocol (MCP) integrations, and native Host OS tooling capabilities.
-
 ---
-
 ## 🆚 How is this different from a "Normal" AI?
 
 Most AI wrapper templates simply take your text, send it to OpenAI, and stream back the text. **ProdAI is fundamentally different.** It simulates a workforce rather than a chatbot.
