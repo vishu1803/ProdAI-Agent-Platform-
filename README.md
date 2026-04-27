@@ -19,11 +19,8 @@ Most AI wrapper templates simply take your text, send it to OpenAI, and stream b
 | **State sharing** | Passes entire message history | Agents communicate efficiently via a shared `TeamMemory` NoSQL-like store |
 | **Tracking** | None | Fully intercepted telemetry, pushing analytics to Prisma/Datadog |
 | **Identity** | Anonymous | Walled off by NextAuth isolated sessions natively |
-
 <br/>
-
 ## 🏗️ Architecture Visualization
-
 Here is a visual representation of how the Coordinator Agent handles a complex user request by delegating work to the Swarms and tracking it all natively:
 
 ```mermaid
