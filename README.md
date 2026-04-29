@@ -70,9 +70,7 @@ graph TD
 ---
 
 ## 🚀 Getting Started
-
 To run this open-source AI platform locally:
-
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/ai-agent-web.git
@@ -104,14 +102,12 @@ To run this open-source AI platform locally:
    ```
 
 ## 💻 How to Use
-
 When you open the web interface, you are dropped into a chat session with the **Coordinator Agent**:
 
 - **Ask it to explore:** Provide it a query such as _"Can you list files in the `/src` folder out for me?"_ — the agent will autonomously spawn a background Bash tool to accomplish this and review the response.
 - **Ask it to do complex tasks:** _"Analyze the code inside `route.ts`, write a summary of it to Team Memory, and then fetch the main webpage of Vercel."_ — watch the Coordinator spin up Sub-Agents and execute complex commands while streaming responses.
 
 ## 🤝 Contributing (Open Source)
-
 This project is actively welcoming contributors! 
 
 **Areas to contribute:**
