@@ -114,7 +114,6 @@ This project is actively welcoming contributors!
 - Adding new Tools inside `src/tools/implementations/`.
 - Building interactive Frontend Dashboard visuals for the Prisma Telemetry tracker.
 - Adding connections to official [Model Context Protocol Integrations](https://github.com/modelcontextprotocol/servers).
-
 **To submit code:**
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingTool`)
@@ -123,5 +122,4 @@ This project is actively welcoming contributors!
 5. Open a Pull Request
 
 ## 📜 License
-
 Distributed under the MIT License. See `LICENSE` for more information.
