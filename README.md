@@ -109,7 +109,6 @@ When you open the web interface, you are dropped into a chat session with the **
 
 ## 🤝 Contributing (Open Source)
 This project is actively welcoming contributors! 
-
 **Areas to contribute:**
 - Adding new Tools inside `src/tools/implementations/`.
 - Building interactive Frontend Dashboard visuals for the Prisma Telemetry tracker.
