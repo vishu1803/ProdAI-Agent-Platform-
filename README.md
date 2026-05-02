@@ -10,7 +10,6 @@ Inspired by advanced CLI agents like Claude Code, this project transforms the co
 ## 🆚 How is this different from a "Normal" AI?
 
 Most AI wrapper templates simply take your text, send it to OpenAI, and stream back the text. **ProdAI is fundamentally different.** It simulates a workforce rather than a chatbot.
-
 | Feature | Standard AI Chatbot | **ProdAI Agent** 🚀 |
 | :--- | :--- | :--- |
 | **Autonomy** | Stops and waits after 1 output | Thinks, acts, reads, and iterates automatically (up to 5 loops) |
