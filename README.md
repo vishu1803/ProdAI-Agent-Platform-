@@ -2,9 +2,7 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ProdAI Agent Platform is a production-ready, highly sophisticated AI Agent framework built from the ground up using **Next.js** and the **Vercel AI SDK**. 
-
 Inspired by advanced CLI agents like Claude Code, this project transforms the concept of an autonomous reasoning loop into a robust web application. It features a complete multi-agent Swarm Architecture, enterprise-grade telemetry, Model Context Protocol (MCP) integrations, and native Host OS tooling capabilities.
 ---
 ## 🆚 How is this different from a "Normal" AI?
